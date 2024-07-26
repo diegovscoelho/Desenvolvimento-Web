@@ -1,0 +1,26 @@
+/* styles.css */
+body {
+    background-image: url("https://img.freepik.com/vetores-gratis/degrade-de-fundo-azul_23-2149333533.jpg?t=st=1721960368~exp=1721963968~hmac=6f1fc745442320fd5ba55714084a0ca706a0c58ba27ba6d12e22360d4e4728c6&w=1380");
+    background-size: cover;
+    margin: 0px;
+}
+
+.main-header {
+    margin-top: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
+
+button {
+    margin: 8px;
+    margin-right: 0px;
+    margin-top: 30px;
+    width: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.botoes {
+    text-align: center;
+}
