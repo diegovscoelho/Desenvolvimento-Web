@@ -1,0 +1,33 @@
+.cores {
+    font-weight: normal;
+}
+
+.vermelho {
+    color: red;
+}
+
+.red-square {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+
+.azul {
+    color: blue;
+}
+
+.blue-square {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+
+.laranja {
+    color: orange;
+}
+
+.orange-square {
+    background-color: orange;
+    width: 200px;
+    height: 200px;
+}

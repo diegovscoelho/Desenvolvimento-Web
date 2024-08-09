@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #244a54;
+    font-family: "Poppins", sans-serif;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 15px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#header {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#header > h1 {
+    color: #c5c4c4;
+}
+
+#nav-bar {
+    height: 50px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    background-color: #397a8a;
+}
+
+.nav-link {
+    color: #c5c4c4;
+    margin-top: 12px;
+}
+
+#matricula {
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+}
+
+#matricula > h2 {
+    font-size: 30px;
+}
+
+#matricula p {
+    font-size: 12px;
+    margin: 10px;
+}
+
+.form {
+    margin-top: 30px;
+}
+
+input {
+    border-radius: 7px;
+    margin-bottom: 20px;
+    width: 300px;
+    text-align: center;
+    height: 20px;
+}
+
