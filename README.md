@@ -1,1 +1,1 @@
-Projetos em HTML/CSS
+Projetos do curso de Desenvolvimento Web.
